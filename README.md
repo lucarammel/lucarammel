@@ -2,10 +2,17 @@
 
 * :round_pushpin: Paris
 * :books: French engineer made from [ESPCI Paris](https://www.espci.psl.eu/fr/) & [Mines ParisTech](https://www.minesparis.psl.eu/).
-* :computer: Energy & modelisation engineer for the french TSO :  [Rte](https://www.rte-france.com/), previously, [IEA](https://www.iea.org/)
-* :thought_balloon: Interested in modelling in sectors with high technical and economic challenges such as environment, energy systemes or transport.
+* :computer: Energy & modelisation engineer for the french TSO :  [Rte](https://www.rte-france.com/). Previously, [IEA](https://www.iea.org/)
+* :thought_balloon: Interested in modelling in sectors with high technical and economic challenges such as energy systems, transport and environment.
 * :email: [Contact me !](mailto:lucaspereira0497@gmail.com)
 * :bookmark_tabs: [Curriculum vitae](https://github.com/lucarammel/Curriculum-Vitae/blob/main/CV%20Lucas%20PEREIRA.pdf)
+
+<h3 align="left">Programming languages</h3>
+<p align="left> 
+          <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+          <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="40" height="40" alt="r logo">
+          <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+</p>
 
 
 
