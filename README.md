@@ -7,11 +7,17 @@
 * :email: [Contact me !](mailto:lucaspereira0497@gmail.com)
 * :bookmark_tabs: [Curriculum vitae](https://github.com/lucarammel/Curriculum-Vitae/blob/main/CV%20Lucas%20PEREIRA.pdf)
 
-<h3 align="left">Programming languages</h3>
+<h3 align="left">Programming languages mastered</h3>
 <p align="left> 
           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
           <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width="40" height="40" alt="r logo">
           <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Learning ..</h3>
+<p align="left> 
+          <a href="https://ampl.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AMPL_logo.svg/2560px-AMPL_logo.svg.png" alt="AMPL" width="40" height="40"/> </a>
+          
 </p>
 
 
