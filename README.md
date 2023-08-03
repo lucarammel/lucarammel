@@ -5,7 +5,7 @@
 * :computer: Energy & modelisation engineer for [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
 * :thought_balloon: Interested in modelling in sectors with high technical and economic challenges such as energy systems, transport and environment.
 * :email: [Contact me !](mailto:lucaspereira0497@gmail.com)
-* :bookmark_tabs: [Curriculum vitae](https://github.com/lucarammel/Curriculum-Vitae/blob/main/CV%20Lucas%20PEREIRA.pdf)
+* :bookmark_tabs: [Curriculum vitae](https://raw.githubusercontent.com/lucarammel/Curriculum-Vitae/main/CV%20Lucas%20PEREIRA.pdf)
 
 <h2 align="left">Programming languages</h2>
 <p align="left> 
