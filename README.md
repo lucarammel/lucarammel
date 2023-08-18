@@ -2,7 +2,7 @@
 
 * :round_pushpin: Paris
 * :books: French engineer made from [ESPCI Paris](https://www.espci.psl.eu/fr/) & [Mines ParisTech](https://www.minesparis.psl.eu/).
-* :computer: Energy & modelisation engineer for [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
+* :computer: Data Science & Energy modelisation for [Artelys](https://www.artelys.com/). Previously, [Rte](https://www.rte-france.com/) & [IEA](https://www.iea.org/)
 * :thought_balloon: Interested in modelling in sectors with high technical and economic challenges such as energy systems, transport and environment.
 * :email: [Contact me !](mailto:lucaspereira0497@gmail.com)
 * :bookmark_tabs: [Curriculum vitae](https://raw.githubusercontent.com/lucarammel/Curriculum-Vitae/main/CV%20Lucas%20PEREIRA.pdf)
